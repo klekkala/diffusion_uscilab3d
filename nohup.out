@@ -1,0 +1,19 @@
+Epoch 0 Batch 0 Loss 0.1712
+Epoch 0 Batch 1 Loss 0.0398
+Epoch 0 Batch 2 Loss 0.0373
+Epoch 0 Batch 3 Loss 0.3040
+Epoch 0 Batch 4 Loss 0.0301
+Epoch 0 Batch 5 Loss 0.0484
+Epoch 0 Batch 6 Loss 0.1075
+Epoch 0 Batch 7 Loss 0.1936
+Epoch 0 Batch 8 Loss 0.0270
+Traceback (most recent call last):
+  File "/lab/student/DIFFU/mix_diffuser.py", line 645, in <module>
+    main()
+  File "/lab/student/DIFFU/mix_diffuser.py", line 642, in main
+    _run_train(args)
+  File "/lab/student/DIFFU/mix_diffuser.py", line 596, in _run_train
+    train_diffusion(model, dl, num_epochs=args.epochs, lr=args.lr, device=device, max_depth=args.max_depth)
+  File "/lab/student/DIFFU/mix_diffuser.py", line 403, in train_diffusion
+    print(f"Epoch {epoch} Batch {batch_idx} Loss {loss.item():.4f}")
+KeyboardInterrupt

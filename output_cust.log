@@ -1,0 +1,402 @@
+nohup: ignoring input
+Epoch 0 Batch 0 Loss 1.5003
+Epoch 0 Batch 50 Loss 0.2162
+Epoch 0 Batch 100 Loss 0.4046
+Epoch 0 Batch 150 Loss 0.1261
+Epoch 0 finished.
+Epoch 1 Batch 0 Loss 0.2611
+Epoch 1 Batch 50 Loss 0.1432
+Epoch 1 Batch 100 Loss 0.2369
+Epoch 1 Batch 150 Loss 0.1851
+Epoch 1 finished.
+Epoch 2 Batch 0 Loss 0.6045
+Epoch 2 Batch 50 Loss 0.0815
+Epoch 2 Batch 100 Loss 0.5623
+Epoch 2 Batch 150 Loss 0.1501
+Epoch 2 finished.
+Epoch 3 Batch 0 Loss 0.0838
+Epoch 3 Batch 50 Loss 0.4443
+Epoch 3 Batch 100 Loss 0.4411
+Epoch 3 Batch 150 Loss 0.5293
+Epoch 3 finished.
+Epoch 4 Batch 0 Loss 0.3436
+Epoch 4 Batch 50 Loss 0.2833
+Epoch 4 Batch 100 Loss 0.1236
+Epoch 4 Batch 150 Loss 0.0732
+Epoch 4 finished.
+Epoch 5 Batch 0 Loss 0.1170
+Epoch 5 Batch 50 Loss 0.5307
+Epoch 5 Batch 100 Loss 0.2034
+Epoch 5 Batch 150 Loss 0.2605
+Epoch 5 finished.
+Epoch 6 Batch 0 Loss 0.2713
+Epoch 6 Batch 50 Loss 0.1045
+Epoch 6 Batch 100 Loss 0.2577
+Epoch 6 Batch 150 Loss 0.3778
+Epoch 6 finished.
+Epoch 7 Batch 0 Loss 0.2537
+Epoch 7 Batch 50 Loss 0.5307
+Epoch 7 Batch 100 Loss 0.3625
+Epoch 7 Batch 150 Loss 0.1039
+Epoch 7 finished.
+Epoch 8 Batch 0 Loss 0.1520
+Epoch 8 Batch 50 Loss 0.0849
+Epoch 8 Batch 100 Loss 0.2234
+Epoch 8 Batch 150 Loss 0.0687
+Epoch 8 finished.
+Epoch 9 Batch 0 Loss 0.0685
+Epoch 9 Batch 50 Loss 0.1759
+Epoch 9 Batch 100 Loss 0.4351
+Epoch 9 Batch 150 Loss 0.2337
+Epoch 9 finished.
+Epoch 10 Batch 0 Loss 0.4047
+Epoch 10 Batch 50 Loss 0.0614
+Epoch 10 Batch 100 Loss 0.3971
+Epoch 10 Batch 150 Loss 0.2802
+Epoch 10 finished.
+Epoch 11 Batch 0 Loss 0.3201
+Epoch 11 Batch 50 Loss 0.0485
+Epoch 11 Batch 100 Loss 0.2628
+Epoch 11 Batch 150 Loss 0.1264
+Epoch 11 finished.
+Epoch 12 Batch 0 Loss 0.1091
+Epoch 12 Batch 50 Loss 0.0552
+Epoch 12 Batch 100 Loss 0.0689
+Epoch 12 Batch 150 Loss 0.3614
+Epoch 12 finished.
+Epoch 13 Batch 0 Loss 0.0497
+Epoch 13 Batch 50 Loss 0.2808
+Epoch 13 Batch 100 Loss 0.0594
+Epoch 13 Batch 150 Loss 0.4323
+Epoch 13 finished.
+Epoch 14 Batch 0 Loss 0.0923
+Epoch 14 Batch 50 Loss 0.4789
+Epoch 14 Batch 100 Loss 0.0544
+Epoch 14 Batch 150 Loss 0.1159
+Epoch 14 finished.
+Epoch 15 Batch 0 Loss 0.0574
+Epoch 15 Batch 50 Loss 0.1881
+Epoch 15 Batch 100 Loss 0.2109
+Epoch 15 Batch 150 Loss 0.2293
+Epoch 15 finished.
+Epoch 16 Batch 0 Loss 0.0665
+Epoch 16 Batch 50 Loss 0.2346
+Epoch 16 Batch 100 Loss 0.4404
+Epoch 16 Batch 150 Loss 0.2496
+Epoch 16 finished.
+Epoch 17 Batch 0 Loss 0.0731
+Epoch 17 Batch 50 Loss 0.1401
+Epoch 17 Batch 100 Loss 0.2570
+Epoch 17 Batch 150 Loss 0.2784
+Epoch 17 finished.
+Epoch 18 Batch 0 Loss 0.1158
+Epoch 18 Batch 50 Loss 0.1606
+Epoch 18 Batch 100 Loss 0.0826
+Epoch 18 Batch 150 Loss 0.4440
+Epoch 18 finished.
+Epoch 19 Batch 0 Loss 0.1766
+Epoch 19 Batch 50 Loss 0.1176
+Epoch 19 Batch 100 Loss 0.3220
+Epoch 19 Batch 150 Loss 0.0559
+Epoch 19 finished.
+Epoch 20 Batch 0 Loss 0.1738
+Epoch 20 Batch 50 Loss 0.1036
+Epoch 20 Batch 100 Loss 0.0845
+Epoch 20 Batch 150 Loss 0.1251
+Epoch 20 finished.
+Epoch 21 Batch 0 Loss 0.4323
+Epoch 21 Batch 50 Loss 0.0480
+Epoch 21 Batch 100 Loss 0.0890
+Epoch 21 Batch 150 Loss 0.3543
+Epoch 21 finished.
+Epoch 22 Batch 0 Loss 0.0713
+Epoch 22 Batch 50 Loss 0.1049
+Epoch 22 Batch 100 Loss 0.0489
+Epoch 22 Batch 150 Loss 0.0517
+Epoch 22 finished.
+Epoch 23 Batch 0 Loss 0.1788
+Epoch 23 Batch 50 Loss 0.3631
+Epoch 23 Batch 100 Loss 0.2689
+Epoch 23 Batch 150 Loss 0.1531
+Epoch 23 finished.
+Epoch 24 Batch 0 Loss 0.1291
+Epoch 24 Batch 50 Loss 0.3871
+Epoch 24 Batch 100 Loss 0.1522
+Epoch 24 Batch 150 Loss 0.3130
+Epoch 24 finished.
+Epoch 25 Batch 0 Loss 0.0845
+Epoch 25 Batch 50 Loss 0.6030
+Epoch 25 Batch 100 Loss 0.1149
+Epoch 25 Batch 150 Loss 0.4230
+Epoch 25 finished.
+Epoch 26 Batch 0 Loss 0.0589
+Epoch 26 Batch 50 Loss 0.4300
+Epoch 26 Batch 100 Loss 0.2624
+Epoch 26 Batch 150 Loss 0.3378
+Epoch 26 finished.
+Epoch 27 Batch 0 Loss 0.3524
+Epoch 27 Batch 50 Loss 0.3875
+Epoch 27 Batch 100 Loss 0.0453
+Epoch 27 Batch 150 Loss 0.6029
+Epoch 27 finished.
+Epoch 28 Batch 0 Loss 0.0973
+Epoch 28 Batch 50 Loss 0.1652
+Epoch 28 Batch 100 Loss 0.1568
+Epoch 28 Batch 150 Loss 0.2565
+Epoch 28 finished.
+Epoch 29 Batch 0 Loss 0.0630
+Epoch 29 Batch 50 Loss 0.1461
+Epoch 29 Batch 100 Loss 0.0562
+Epoch 29 Batch 150 Loss 0.2470
+Epoch 29 finished.
+Epoch 30 Batch 0 Loss 0.0698
+Epoch 30 Batch 50 Loss 0.1237
+Epoch 30 Batch 100 Loss 0.0494
+Epoch 30 Batch 150 Loss 0.1486
+Epoch 30 finished.
+Epoch 31 Batch 0 Loss 0.4231
+Epoch 31 Batch 50 Loss 0.1266
+Epoch 31 Batch 100 Loss 0.4378
+Epoch 31 Batch 150 Loss 0.1628
+Epoch 31 finished.
+Epoch 32 Batch 0 Loss 0.4990
+Epoch 32 Batch 50 Loss 0.1122
+Epoch 32 Batch 100 Loss 0.0394
+Epoch 32 Batch 150 Loss 0.1470
+Epoch 32 finished.
+Epoch 33 Batch 0 Loss 0.0457
+Epoch 33 Batch 50 Loss 0.2993
+Epoch 33 Batch 100 Loss 0.1102
+Epoch 33 Batch 150 Loss 0.2906
+Epoch 33 finished.
+Epoch 34 Batch 0 Loss 0.0683
+Epoch 34 Batch 50 Loss 0.0735
+Epoch 34 Batch 100 Loss 0.4186
+Epoch 34 Batch 150 Loss 0.0678
+Epoch 34 finished.
+Epoch 35 Batch 0 Loss 0.2607
+Epoch 35 Batch 50 Loss 0.2665
+Epoch 35 Batch 100 Loss 0.3272
+Epoch 35 Batch 150 Loss 0.0549
+Epoch 35 finished.
+Epoch 36 Batch 0 Loss 0.2848
+Epoch 36 Batch 50 Loss 0.0916
+Epoch 36 Batch 100 Loss 0.1112
+Epoch 36 Batch 150 Loss 0.0488
+Epoch 36 finished.
+Epoch 37 Batch 0 Loss 0.3662
+Epoch 37 Batch 50 Loss 0.0609
+Epoch 37 Batch 100 Loss 0.1315
+Epoch 37 Batch 150 Loss 0.4163
+Epoch 37 finished.
+Epoch 38 Batch 0 Loss 0.2951
+Epoch 38 Batch 50 Loss 0.0990
+Epoch 38 Batch 100 Loss 0.0460
+Epoch 38 Batch 150 Loss 0.1081
+Epoch 38 finished.
+Epoch 39 Batch 0 Loss 0.0442
+Epoch 39 Batch 50 Loss 0.0873
+Epoch 39 Batch 100 Loss 0.1863
+Epoch 39 Batch 150 Loss 0.0556
+Epoch 39 finished.
+Epoch 40 Batch 0 Loss 0.0820
+Epoch 40 Batch 50 Loss 0.2007
+Epoch 40 Batch 100 Loss 0.2641
+Epoch 40 Batch 150 Loss 0.6298
+Epoch 40 finished.
+Epoch 41 Batch 0 Loss 0.1910
+Epoch 41 Batch 50 Loss 0.2041
+Epoch 41 Batch 100 Loss 0.3055
+Epoch 41 Batch 150 Loss 0.2881
+Epoch 41 finished.
+Epoch 42 Batch 0 Loss 0.1391
+Epoch 42 Batch 50 Loss 0.5605
+Epoch 42 Batch 100 Loss 0.4981
+Epoch 42 Batch 150 Loss 0.2602
+Epoch 42 finished.
+Epoch 43 Batch 0 Loss 0.0592
+Epoch 43 Batch 50 Loss 0.1334
+Epoch 43 Batch 100 Loss 0.3615
+Epoch 43 Batch 150 Loss 0.1142
+Epoch 43 finished.
+Epoch 44 Batch 0 Loss 0.0897
+Epoch 44 Batch 50 Loss 0.1941
+Epoch 44 Batch 100 Loss 0.1145
+Epoch 44 Batch 150 Loss 0.0519
+Epoch 44 finished.
+Epoch 45 Batch 0 Loss 0.1644
+Epoch 45 Batch 50 Loss 0.1188
+Epoch 45 Batch 100 Loss 0.1400
+Epoch 45 Batch 150 Loss 0.1357
+Epoch 45 finished.
+Epoch 46 Batch 0 Loss 0.3690
+Epoch 46 Batch 50 Loss 0.0458
+Epoch 46 Batch 100 Loss 0.1211
+Epoch 46 Batch 150 Loss 0.0906
+Epoch 46 finished.
+Epoch 47 Batch 0 Loss 0.1938
+Epoch 47 Batch 50 Loss 0.0607
+Epoch 47 Batch 100 Loss 0.3610
+Epoch 47 Batch 150 Loss 0.4170
+Epoch 47 finished.
+Epoch 48 Batch 0 Loss 0.0964
+Epoch 48 Batch 50 Loss 0.0399
+Epoch 48 Batch 100 Loss 0.0633
+Epoch 48 Batch 150 Loss 0.1097
+Epoch 48 finished.
+Epoch 49 Batch 0 Loss 0.0873
+Epoch 49 Batch 50 Loss 0.2293
+Epoch 49 Batch 100 Loss 0.2014
+Epoch 49 Batch 150 Loss 0.1753
+Epoch 49 finished.
+Epoch 50 Batch 0 Loss 0.0794
+Epoch 50 Batch 50 Loss 0.0465
+Epoch 50 Batch 100 Loss 0.4445
+Epoch 50 Batch 150 Loss 0.0767
+Epoch 50 finished.
+Epoch 51 Batch 0 Loss 0.1801
+Epoch 51 Batch 50 Loss 0.3006
+Epoch 51 Batch 100 Loss 0.0746
+Epoch 51 Batch 150 Loss 0.0384
+Epoch 51 finished.
+Epoch 52 Batch 0 Loss 0.1150
+Epoch 52 Batch 50 Loss 0.1668
+Epoch 52 Batch 100 Loss 0.2884
+Epoch 52 Batch 150 Loss 0.0584
+Epoch 52 finished.
+Epoch 53 Batch 0 Loss 0.0725
+Epoch 53 Batch 50 Loss 0.3439
+Epoch 53 Batch 100 Loss 0.0912
+Epoch 53 Batch 150 Loss 0.0806
+Epoch 53 finished.
+Epoch 54 Batch 0 Loss 0.1682
+Epoch 54 Batch 50 Loss 0.2784
+Epoch 54 Batch 100 Loss 0.0601
+Epoch 54 Batch 150 Loss 0.2367
+Epoch 54 finished.
+Epoch 55 Batch 0 Loss 0.1761
+Epoch 55 Batch 50 Loss 0.1214
+Epoch 55 Batch 100 Loss 0.0867
+Epoch 55 Batch 150 Loss 0.1782
+Epoch 55 finished.
+Epoch 56 Batch 0 Loss 0.1852
+Epoch 56 Batch 50 Loss 0.1177
+Epoch 56 Batch 100 Loss 0.1682
+Epoch 56 Batch 150 Loss 0.1289
+Epoch 56 finished.
+Epoch 57 Batch 0 Loss 0.1361
+Epoch 57 Batch 50 Loss 0.0694
+Epoch 57 Batch 100 Loss 0.0947
+Epoch 57 Batch 150 Loss 0.2505
+Epoch 57 finished.
+Epoch 58 Batch 0 Loss 0.2087
+Epoch 58 Batch 50 Loss 0.0792
+Epoch 58 Batch 100 Loss 0.4061
+Epoch 58 Batch 150 Loss 0.1255
+Epoch 58 finished.
+Epoch 59 Batch 0 Loss 0.4950
+Epoch 59 Batch 50 Loss 0.1771
+Epoch 59 Batch 100 Loss 0.5455
+Epoch 59 Batch 150 Loss 0.4223
+Epoch 59 finished.
+Epoch 60 Batch 0 Loss 0.2429
+Epoch 60 Batch 50 Loss 0.3527
+Epoch 60 Batch 100 Loss 0.1834
+Epoch 60 Batch 150 Loss 0.1780
+Epoch 60 finished.
+Epoch 61 Batch 0 Loss 0.2006
+Epoch 61 Batch 50 Loss 0.0673
+Epoch 61 Batch 100 Loss 0.1236
+Epoch 61 Batch 150 Loss 0.2377
+Epoch 61 finished.
+Epoch 62 Batch 0 Loss 0.0482
+Epoch 62 Batch 50 Loss 0.1617
+Epoch 62 Batch 100 Loss 0.0387
+Epoch 62 Batch 150 Loss 0.3325
+Epoch 62 finished.
+Epoch 63 Batch 0 Loss 0.3446
+Epoch 63 Batch 50 Loss 0.3949
+Epoch 63 Batch 100 Loss 0.1028
+Epoch 63 Batch 150 Loss 0.4423
+Epoch 63 finished.
+Epoch 64 Batch 0 Loss 0.0491
+Epoch 64 Batch 50 Loss 0.3742
+Epoch 64 Batch 100 Loss 0.0416
+Epoch 64 Batch 150 Loss 0.4772
+Epoch 64 finished.
+Epoch 65 Batch 0 Loss 0.1212
+Epoch 65 Batch 50 Loss 0.1090
+Epoch 65 Batch 100 Loss 0.0897
+Epoch 65 Batch 150 Loss 0.2606
+Epoch 65 finished.
+Epoch 66 Batch 0 Loss 0.1966
+Epoch 66 Batch 50 Loss 0.1352
+Epoch 66 Batch 100 Loss 0.3131
+Epoch 66 Batch 150 Loss 0.1382
+Epoch 66 finished.
+Epoch 67 Batch 0 Loss 0.0522
+Epoch 67 Batch 50 Loss 0.3866
+Epoch 67 Batch 100 Loss 0.0533
+Epoch 67 Batch 150 Loss 0.2213
+Epoch 67 finished.
+Epoch 68 Batch 0 Loss 0.3243
+Epoch 68 Batch 50 Loss 0.0542
+Epoch 68 Batch 100 Loss 0.0925
+Epoch 68 Batch 150 Loss 0.5057
+Epoch 68 finished.
+Epoch 69 Batch 0 Loss 0.2867
+Epoch 69 Batch 50 Loss 0.0451
+Epoch 69 Batch 100 Loss 0.0489
+Epoch 69 Batch 150 Loss 0.2873
+Epoch 69 finished.
+Epoch 70 Batch 0 Loss 0.1701
+Epoch 70 Batch 50 Loss 0.1714
+Epoch 70 Batch 100 Loss 0.1518
+Epoch 70 Batch 150 Loss 0.2254
+Epoch 70 finished.
+Epoch 71 Batch 0 Loss 0.2440
+Epoch 71 Batch 50 Loss 0.2258
+Epoch 71 Batch 100 Loss 0.2220
+Epoch 71 Batch 150 Loss 0.2900
+Epoch 71 finished.
+Epoch 72 Batch 0 Loss 0.1809
+Epoch 72 Batch 50 Loss 0.2232
+Epoch 72 Batch 100 Loss 0.1685
+Epoch 72 Batch 150 Loss 0.2065
+Epoch 72 finished.
+Epoch 73 Batch 0 Loss 0.2041
+Epoch 73 Batch 50 Loss 0.1391
+Epoch 73 Batch 100 Loss 0.1637
+Epoch 73 Batch 150 Loss 0.3685
+Epoch 73 finished.
+Epoch 74 Batch 0 Loss 0.0667
+Epoch 74 Batch 50 Loss 0.0596
+Epoch 74 Batch 100 Loss 0.1576
+Epoch 74 Batch 150 Loss 0.0617
+Epoch 74 finished.
+Epoch 75 Batch 0 Loss 0.1582
+Epoch 75 Batch 50 Loss 0.1060
+Epoch 75 Batch 100 Loss 0.3798
+Epoch 75 Batch 150 Loss 0.3840
+Epoch 75 finished.
+Epoch 76 Batch 0 Loss 0.2149
+Epoch 76 Batch 50 Loss 0.0846
+Epoch 76 Batch 100 Loss 0.3744
+Epoch 76 Batch 150 Loss 0.1025
+Epoch 76 finished.
+Epoch 77 Batch 0 Loss 0.0784
+Epoch 77 Batch 50 Loss 0.0417
+Epoch 77 Batch 100 Loss 0.0843
+Epoch 77 Batch 150 Loss 0.0896
+Epoch 77 finished.
+Epoch 78 Batch 0 Loss 0.0779
+Epoch 78 Batch 50 Loss 0.2882
+Epoch 78 Batch 100 Loss 0.1807
+Epoch 78 Batch 150 Loss 0.2730
+Epoch 78 finished.
+Epoch 79 Batch 0 Loss 0.0880
+Epoch 79 Batch 50 Loss 0.4009
+Epoch 79 Batch 100 Loss 0.0564
+Epoch 79 Batch 150 Loss 0.5251
+Epoch 79 finished.
+[train] done. Weights saved → trained_weights_full.pth
