@@ -2,3 +2,7 @@
 # ignore training artifacts
 checkpoints/
 *.pth
+
+# training artifacts
+checkpoints/
+*.pth
