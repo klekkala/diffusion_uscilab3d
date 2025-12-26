@@ -1,0 +1,4 @@
+
+# ignore training artifacts
+checkpoints/
+*.pth
