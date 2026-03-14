@@ -1,0 +1,70 @@
+# =============================================================================
+# FLUX NVS Training Configuration — USCILab3D
+# =============================================================================
+# Usage:
+#   Debug (single GPU, work server A100/H100):
+#     python train_flux_nvs.py --config configs/flux_nvs.yaml
+#
+#   Full training (4x H100, rented cloud):
+#     torchrun --nproc_per_node=4 train_flux_nvs.py --config configs/flux_nvs.yaml
+#
+#   LoRA variant (faster, less VRAM):
+#     torchrun --nproc_per_node=4 train_flux_nvs.py --config configs/flux_nvs.yaml --lora
+# =============================================================================
+
+# --- Model ---
+flux_model_id: "black-forest-labs/FLUX.1-dev"
+flux_dtype: "bfloat16"           # REQUIRED for FLUX stability (no fp16!)
+img_height: 720
+img_width: 1280
+n_ref_images: 4
+guidance_scale: 1.0              # guidance embedding at train time
+
+# --- LoRA (set use_lora: true or use --lora flag) ---
+use_lora: false
+lora_rank: 64
+lora_alpha: 64
+
+# --- Conditioning ---
+use_dynamic_mask: true           # zero-out dynamic pixels in depth/semantic
+lambda_x0_recon: 0.05           # weight for L1 x0-reconstruction auxiliary loss
+
+# --- Training ---
+learning_rate: 1.0e-5
+adam_beta1: 0.9
+adam_beta2: 0.999
+adam_weight_decay: 0.01
+adam_epsilon: 1.0e-8
+max_grad_norm: 1.0
+batch_size_per_gpu: 2            # for 80GB H100; reduce to 1 for 40GB A100
+gradient_accumulation_steps: 4   # effective batch = 2 * 4 * 4_gpus = 32
+max_steps: 50000                 # ~1.6M images seen with eff_batch=32
+warmup_steps: 1000
+save_every_steps: 5000
+eval_every_steps: 2500
+log_every_steps: 50
+
+# --- Hardware ---
+gradient_checkpointing: true     # saves ~40% VRAM
+use_8bit_adam: true              # saves ~30% optimizer memory (bitsandbytes)
+
+# --- Data (USCILab3D) ---
+data_root: "/data/USCILab3D"
+mapping_dir: "/tmp/velodyne_cam_mappings"
+projection_dir: null              # set when LiDAR projections are ready
+semantic_dir: null                # set when SAM3 masks are ready
+extracted_dir: null               # set if images are pre-extracted from bags
+global_poses_path: null           # set when pose graph is built
+max_depth: 80.0
+max_dt_ms: 100.0
+samples_per_session: 200
+num_workers: 4
+
+# --- Checkpointing ---
+output_dir: "./checkpoints/flux_nvs"
+resume_from: null                 # set to path to resume, or "latest" is auto-detected
+
+# --- Logging ---
+use_wandb: false
+wandb_project: "uscilab3d-flux-nvs"
+wandb_run_name: null

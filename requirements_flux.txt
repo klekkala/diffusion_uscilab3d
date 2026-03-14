@@ -1,0 +1,26 @@
+# FLUX NVS Training Requirements
+# Install: pip install -r requirements_flux.txt
+
+# Core
+torch>=2.1.0
+torchvision>=0.16.0
+diffusers>=0.30.0
+transformers>=4.40.0
+accelerate>=0.30.0
+safetensors>=0.4.0
+
+# Data
+pyarrow>=14.0.0
+scipy>=1.10.0
+rosbags>=0.9.0          # pure-Python ROS bag reader (no ROS install needed)
+Pillow>=10.0.0
+
+# Training
+bitsandbytes>=0.43.0    # 8-bit AdamW
+einops>=0.7.0           # tensor rearranging for FLUX pack/unpack
+peft>=0.10.0            # LoRA (optional, needed if --lora)
+
+# Logging
+wandb>=0.16.0           # optional
+pyyaml>=6.0
+tqdm>=4.65.0
